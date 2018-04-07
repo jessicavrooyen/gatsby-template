@@ -4,7 +4,6 @@
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "components": "^0.1.0",
     "gatsby": "^1.9.241",
     "gatsby-image": "^1.0.43",
     "gatsby-link": "^1.6.39",
@@ -25,7 +24,7 @@
     "gatsby-transformer-sharp": "^1.6.22",
     "lodash": "^4.17.5",
     "react-helmet": "^5.2.0",
-    "styled": "^1.0.0"
+    "styled-components": "^3.2.5"
   },
   "keywords": [
     "gatsby"
